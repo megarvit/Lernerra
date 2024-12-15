@@ -1,0 +1,648 @@
+{
+  "card": [
+    {
+      "trusted_id": 1,
+      "trusted_img": "/assets/Image 27.png",
+      "trusted_img2": "/assets/Rating 4.png",
+      "trusted_txt": "In which any benefits are offered and nothing is held back from work.",
+      "trusted_txt2": "Some desire to enjoy training with pleasure. But the result is painful. As a consequence, the one responsible is at fault for seeking comfort but experiencing discomfort. And yet the result brings satisfaction.",
+      "trusted_name": "Full name",
+      "trusted_job": "job tittle"
+    },
+    {
+      "trusted_id": 2,
+      "trusted_img": "/assets/Image 27.png",
+      "trusted_img2": "/assets/Rating 4.png",
+      "trusted_txt": "In an environment that values progress, every tool is available for success.",
+      "trusted_txt2": "Some wish for an easy path to improvement. However, growth often comes with struggle. Those who avoid discomfort may miss out on the rewards that perseverance brings.",
+      "trusted_name": "Full name",
+      "trusted_job": "job tittle"
+    },
+    {
+      "trusted_id": 3,
+      "trusted_img": "/assets/Image 27.png",
+      "trusted_img2": "/assets/Rating 4.png",
+      "trusted_txt": "In a culture that encourages excellence, nothing is withheld from achievement.",
+      "trusted_txt2": "Some hope to advance without effort. Yet, the road to success is often challenging. Embracing the discomfort of growth leads to lasting satisfaction.",
+      "trusted_name": "Full name",
+      "trusted_job": "job tittle"
+    },
+    {
+      "trusted_id": 4,
+      "trusted_img": "/assets/Image 27.png",
+      "trusted_img2": "/assets/Rating 4.png",
+      "trusted_txt": "In a setting committed to success, all support is readily provided.",
+      "trusted_txt2": "Some prefer to learn in comfort. But the reality is that true progress often requires sacrifice. Ultimately, the challenges faced pave the way for genuine achievement.",
+      "trusted_name": "Full name",
+      "trusted_job": "job tittle"
+    }
+  ],
+  "Testi": [
+    {
+      "image": "assets/Avatar 6.png",
+      "name": "Emma Gonzalez",
+      "jobTitle": "Job Title",
+      "text": "Sit quis Lorem laboris adipisicing magna ipsum dolore mollit in nostrud.",
+      "companyLogo": "assets/Container 4.png"
+    },
+    {
+      "image": "assets/Avatar 7.png",
+      "name": "Sarah Johnson",
+      "jobTitle": "Job Title",
+      "text": "Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "companyLogo": "assets/Container 6.png"
+    },
+    {
+      "image": "assets/Avatar 6.png",
+      "name": "Elizabeth Anderson",
+      "jobTitle": "Job Title",
+      "text": "Dipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "companyLogo": "assets/Container 8.png"
+    },
+    {
+      "image": "assets/Avatar 7.png",
+      "name": "Anthony Davis",
+      "jobTitle": "Job Title",
+      "text": "Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "companyLogo": "assets/Image 8.png"
+    },
+    {
+      "image": "assets/Avatar 6.png",
+      "name": "Anthony Adams",
+      "jobTitle": "Job Title",
+      "text": "Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "companyLogo": "assets/Container 6.png"
+    },
+    {
+      "image": "assets/Avatar 7.png",
+      "name": "Emily Brown",
+      "jobTitle": "Job Title",
+      "text": "Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "companyLogo": "assets/Image 7.png"
+    }
+  ],
+
+  "stage_card": [
+    {
+      "id": 1,
+      "title": "Stage 1",
+      "description": "Ideation & Planning",
+      "icon": "/assets/statec.png"
+    },
+    {
+      "id": 2,
+      "title": "Stage 2",
+      "description": "Development & Testing",
+      "icon": "/assets/statea.png"
+    },
+    {
+      "id": 3,
+      "title": "Stage 3",
+      "description": "Presentation & Wrapup",
+      "icon": "/assets/stateb.png"
+    }
+  ],
+  "course_stage_card": [
+    {
+      "id": 1,
+      "title": "1 Year",
+      "description": "Programming & Devlopment",
+      "icon": "/assets/statec.png"
+    },
+    {
+      "id": 2,
+      "title": "2 Year",
+      "description": "DSA & Development 1",
+      "icon": "/assets/statea.png"
+    },
+    {
+      "id": 3,
+      "title": "3 Year",
+      "description": "DSA & Development 2",
+      "icon": "/assets/stateb.png"
+    },
+    {
+      "id": 4,
+      "title": "4 Year",
+      "description": "Interview Prepration",
+      "icon": "/assets/stated.png"
+    }
+  ],
+  "Guidelines": [
+    {
+      "id": 1,
+      "title": "Eligibility",
+      "description1": "Open to students from all academic backgrounds.",
+      "description2": "Participants can be from any college or university.",
+      "description3": "Teams can include members from different specializations.",
+      "image": "assets/eligible.png"
+    },
+    {
+      "id": 2,
+      "title": "Team Composition",
+      "description1": "Team size: 1-5 members.",
+      "description2": "Inter-college and inter-specialization teams are allowed.",
+      "image": "assets/team22.png"
+    },
+    {
+      "id": 3,
+      "title": "Competition Format",
+      "description1": "The competition is structured into multiple rounds, each focusing on different aspects of project development and refinement.",
+      "description2": "Participants will work on real-world problem statements provided by industry partners.",
+      "image": "assets/competition.png"
+    },
+    {
+      "id": 4,
+      "title": "Rounds and Duration",
+      "description1": "Round 1: Idea Submission (1 week): Teams submit their initial ideas and problem statements.",
+      "description2": "Round 2: Prototype Development (3 weeks): Teams work on developing a prototype based on their submitted ideas.",
+      "description3": "Round 3: Final Presentation (4 weeks): Teams present their completed projects to a panel of judges.",
+      "image": "assets/rounds.png"
+    },
+    {
+      "id": 5,
+      "title": "Problem Statements",
+      "description1": "A set of diverse problem statements will be provided, spanning various industries and challenges.",
+      "description2": "Teams are expected to choose one problem statement and work on a solution.",
+      "image": "assets/problemStatement.png"
+    },
+    {
+      "id": 6,
+      "title": "Evaluation Criteria",
+      "description1": "Innovation and creativity in the solution.",
+      "description2": "Feasibility and potential impact of the proposed solution.",
+      "description3": "Quality of the prototype and final presentation.",
+      "description4": "Alignment with the problem statement.",
+      "image": "assets/evaluation.png"
+    },
+    {
+      "id": 7,
+      "title": "Awards and Opportunities",
+      "description1": "Top-performing teams will receive placement assistance and professional development opportunities.",
+      "description2": "Certificates and prizes for winning teams.",
+      "image": "assets/awards11.png"
+    }
+  ],
+
+  "Rules": [
+    {
+      "id": 1,
+      "title": "Team Formation",
+      "description1": "Teams must register with the specified number of members (1-5).",
+      "description2": "No changes to team composition are allowed after registration.",
+      "image": "assets/teamformation.png"
+    },
+    {
+      "id": 2,
+      "title": "Submission Guidelines",
+      "description1": "All submissions must be original and developed during the competition period.",
+      "description2": "Plagiarism or use of pre-existing projects will result in disqualification.",
+      "image": "assets/submission.png"
+    },
+    {
+      "id": 3,
+      "title": "Code of Conduct",
+      "description1": "Participants are expected to maintain professional behavior throughout the event.",
+      "description2": "Respect for mentors, judges, and fellow participants is mandatory.",
+      "image": "assets/conduct.png"
+    },
+    {
+      "id": 4,
+      "title": "Intellectual Property",
+      "description1": "Participants retain ownership of their projects but grant Stratothon the right to showcase and promote the projects.",
+      "image": "assets/intellectual.png"
+    },
+    {
+      "id": 5,
+      "title": "Judging and Results",
+      "description1": "Judges' decisions are final and binding.",
+      "description2": "Feedback from judges and mentors should be used constructively.",
+      "image": "assets/judging.png"
+    }
+  ],
+  "Rewards": [
+    {
+      "id": 1,
+      "title": "Gold Innovator – 1st Place",
+      "subtitle": "The top-performing team with the best overall project.",
+      "price": " 20,000",
+      "image": "assets/gold.png"
+    },
+    {
+      "id": 2,
+      "title": "Silver Creator – 2nd Place",
+      "subtitle": "The runner-up team showcasing excellent innovation and execution.",
+      "price": "10,000",
+      "image": "assets/silver.png"
+    },
+    {
+      "id": 3,
+      "title": "Bronze Pioneer – 3rd Place",
+      "subtitle": "The third-place team with a strong, impactful solution.",
+      "price": "5,000",
+      "image": "assets/bronze.png"
+    },
+    {
+      "id": 4,
+      "title": "Participation Certificate",
+      "subtitle": "Every participant will be awarded a certificate of participation.",
+      "image": "assets/certificate.png"
+    }
+  ],
+  "InternshipPhases": [
+    {
+      "id": 1,
+      "title": "Phase 1",
+      "subtitle": "First 2 weeks",
+      "description1": "Assessment.",
+      "image": "assets/assessment12.png"
+    },
+    {
+      "id": 2,
+      "title": "Phase 2",
+      "subtitle": "3-4 weeks",
+      "description1": "Nurturing on Assessment Evaluation Guidance and Upskill.",
+      "image": "assets/evaluation1.png"
+    },
+    {
+      "id": 3,
+      "title": "Phase 3",
+      "subtitle": "From 5th week",
+      "description1": "Projects will be assigned on the basis of 4th evaluation.",
+      "image": "assets/evaluation2.png"
+    },
+    {
+      "id": 4,
+      "title": "Phase 4",
+      "subtitle": "6-8 weeks",
+      "description1": "Project work.",
+      "image": "assets/phase3.png"
+    },
+    {
+      "id": 5,
+      "title": "Phase 5",
+      "subtitle": "End of 8th week",
+      "description1": "Internship completion Evaluation.",
+      "image": "assets/evaluation.png"
+    }
+  ],
+  "InternshipPerks": [
+    {
+      "id": 1,
+      "title": "Mentorship.",
+      "image": "faUserGraduate"
+    },
+    {
+      "id": 2,
+      "title": "Joining Perks.",
+      "image": "faGift"
+    },
+    {
+      "id": 3,
+      "title": "Internship Completion Benefits.",
+      "image": "faAward"
+    },
+    {
+      "id": 4,
+      "title": "Industrial Exposure.",
+      "image": "faBuilding"
+    },
+    {
+      "id": 5,
+      "title": "Collaboration And Networking.",
+      "image": "faPeopleArrows"
+    },
+    {
+      "id": 6,
+      "title": "Boost Your Career.",
+      "image": "faRocket"
+    }
+  ],
+  "Stratathon2Phase1": [
+    {
+      "id": 1,
+      "title": "Kickoff & Introduction",
+      "description1": "Overview: Introduction to the hackathon, goals, and structure.",
+      "description2": "Problem Statements: Presentation of two problem statements with examples.",
+      "description3": "Judging Criteria: Explanation of submission guidelines and rules.",
+      "description4": "Q&A: Session for participants to clarify doubts.",
+      "image": "assets/handshake.png"
+    },
+    {
+      "id": 2,
+      "title": " Team Formation & Tool Setup",
+      "description1": "Team Formation: Participants form teams of 3-5 based on skills.",
+      "description2": "Communication: Set up channels (e.g., Slack, Discord) for coordination.",
+      "description3": "Version Control: Establish repositories (e.g., GitHub, GitLab).",
+      "description4": "Tools Setup: Ensure all necessary software and APIs are functional.",
+      "image": "assets/teamformation.png"
+    },
+    {
+      "id": 3,
+      "title": "  Brainstorming & Planning",
+      "description1": "Solution Exploration: Teams brainstorm potential solutions.",
+      "description2": "Project Plan: Outline key features, user personas, and technical approach.",
+      "description3": "Role Assignment: Identify team roles (e.g., frontend, backend, data analyst).",
+      "description4": "Timeline Draft: Create a rough development timeline.",
+      "description5": "Outline Submission: Submit project outline for mentor feedback.",
+      "image": "assets/problemStatement.png"
+    }
+  ],
+  "Stratathon2Phase2": [
+    {
+      "id": 1,
+      "title": "Development Phase 1",
+      "description1": "Core Development: Teams build backend APIs and basic frontend components.",
+      "description2": "Integration: Ensure frontend and backend components communicate effectively.",
+      "description3": "Daily Standups: Teams share progress and discuss challenges",
+      "description4": "Mentor Check-ins: Quick check-ins with mentors for guidance.",
+      "image": "assets/phase1.png"
+    },
+    {
+      "id": 2,
+      "title": " Development Phase 2",
+      "description1": "Feature Implementation: Add advanced functionalities and optimize UI/UX.",
+      "description2": "Testing: Begin unit and integration testing of components",
+      "description3": "Progress Review: Assess timelines and adjust as needed.",
+      "image": "assets/phase2.png"
+    },
+    {
+      "id": 3,
+      "title": " Final Development Push",
+      "description1": "Refinement: Polish UI and enhance user experience.",
+      "description2": "Documentation: Create user and technical documentation.",
+      "description3": "Testing and Debugging: Conduct thorough testing and fix bugs.",
+      "image": "assets/phase3.png"
+    },
+    {
+      "id": 4,
+      "title": "Testing, Debugging, & Deployment",
+      "description1": "Bug Fixing: Finalize testing to identify and resolve issues.",
+      "description2": "Deployment: Deploy the application on platforms (e.g., Heroku, AWS).",
+      "description3": "Final Testing: Verify functionality on the deployed application.",
+      "image": "assets/testing.png"
+    }
+  ],
+  "Stratathon2Phase3": [
+    {
+      "id": 1,
+      "title": "Project Demo Preparation",
+      "description1": "Presentation Creation: Develop slides highlighting problem, solution, and features.",
+      "description2": "Rehearsals: Practice presentations for clarity and timing.",
+      "description3": "Technical Checks: Ensure demo functionality and compatibility",
+      "image": "assets/demo.png"
+    },
+    {
+      "id": 2,
+      "title": " Project Demos & Presentations1",
+      "description1": "Presentation Format: Teams present their projects with live demos.",
+      "description2": "Judging Q&A: Judges ask questions to assess understanding and technical choices.",
+      "image": "assets/presentation.png"
+    },
+    {
+      "id": 3,
+      "title": "Award Ceremony & Wrap-up",
+      "description1": "Judging Review: Judges evaluate projects based on criteria.",
+      "description2": "Awards Announcement: Winners recognized in various categories.",
+      "description3": "Feedback Session: Judges provide constructive feedback to teams.",
+      "description4": "Networking: Facilitate connections between participants, mentors, and judges.",
+      "description5": "Closing Remarks: Organizers summarize the event and encourage further development.",
+      "image": "assets/awards11.png"
+    }
+  ],
+  "Stratathon2Perks": [
+    {
+      "id": 1,
+      "title": "Showcase Your Talent.",
+      "image": "faStar"
+    },
+    {
+      "id": 2,
+      "title": "Learn From Experts.",
+      "image": "faChalkboardTeacher"
+    },
+    {
+      "id": 3,
+      "title": "Win Prizes And Earn Participation Certificate.",
+      "image": "faAward"
+    },
+    {
+      "id": 4,
+      "title": "Boost Your Career.",
+      "image": "faRocket"
+    },
+    {
+      "id": 5,
+      "title": "Network With Industry Leaders.",
+      "image": "faUsers"
+    }
+  ],
+  "roadmap":[
+    {
+      "id": 1,
+      "title": " For 1st year",
+      "description1": "Introduction to Programming Languages ",
+      "Languages":"Languages Covered",
+      "Languages1":"C++",
+      "Languages2":"Java",
+      "Languages3":"Python",
+
+      "description2": "Intoduction to Development : Introductory Lectures on -",
+      "cousrse1": "Web Development",
+      "cousrse2": "App Development",
+      "cousrse3": "Machine Learning",
+      "description3": "Acquire basic programming skills in C++, Java, and Python, earning certifications upon completion",
+      "description4": "They'll also gain foundational knowledge in web development, app development ,and ,machine learning through introductory lectures , setting the stage for advanced leraning in future years.",
+      "image": "assets/cphase1.1.png"
+    },
+    {
+      "id": 2,
+      "title": " For 2nd year",
+      "description1": "Strategyz Learning DSA sheet-I",
+      "Languages":"Students would choose one Programminglanguage ",
+      "Box 2":"Easy to Medium level DSA problems",
+    
+      "description2": "Development Lectures on:",
+      "cousrse1": "Web Development",
+      "cousrse2": "App Development",
+      "cousrse3": "Machine Learning",
+      "description3": "Project Exhibition-I",
+      "box1": "Creation of a Basic project",
+      "box2 ": "Guidance on future scope",
+      "box3": "Monthly and Final evaluation",
+      "description4": "Acquire basic knowledge of DSA and it’sconcepts by solving easy to medium level problems.",
+      "description5": "Gain knowledge in the field of web development ,app development and machine learning for future implementation.",
+      "description6":"Earn experience of developing a project under the guidance of the mentors.",
+      "image": "assets/cphase1.2.png"
+    },
+    {
+      "id": 3,
+      "title": " For 3rd year",
+      "description1": "Strategyz Learning DSA sheet-II",
+      "Languages":"Students will engage in solving increasingly advanced data structures and algorithms",
+      "Box 2":"Medium to Hard level DSA problems",
+      "description2": " Advance  Lectures on:",
+      "cousrse1": "Web Development",
+      "cousrse2": "App Development",
+      "cousrse3": "Machine Learning",
+      "description3": "Project Exhibition-II",
+      "box1": "Creation of an advanced industry-level project",
+      "box2 ": "Guidance on future scope",
+      "box3": "Monthly and Final evaluation",
+      "box4": " Weekly Updates on their work",
+      "description4": "Acquire advanced knowledge of DSA and its concepts by solving complex problems.",
+      "description5": "Deepen expertise in web development, app development, and machine learning for future implementations.",
+      "description6": "Gain substantial experience developing sophisticated projects under the guidance of mentors.",
+      "image": "assets/cphase1.png"
+    },
+    {
+      "id": 4,
+      "title": " For 4th year",
+      "description1": "Interview Preparation: Comprehensive training to excel in technical and HR interviews.",
+      "description2": "Exclusive internship opportunity for the top -performing student to gain real-world experience.",
+      "image": "assets/cphase1.5.png"
+}
+  ],
+  "StratathonPhase": [
+    {
+      "id": 1,
+      "title": "For I Year Students",
+      "description1": "Acquire basic programming skills in C++, Java,and Python,earning certifications uponcompletion.",
+      "description2": "They'll also gain foundational knowledge in web development, app development, and machine learning through introductory lectures,setting the stage for advancedlearning in future years.",
+   
+      "image": "assets/pic.png"
+    },
+    {
+      "id": 2,
+      "title": " For II Year Students",
+      "description1": "Acquire basic knowledge of DSA and it’sconcepts by solving easy to medium levelproblems.",
+      "description2": "Gain knowledge in the field of web development ,app development and machine learning for future implementation.",
+      "description3": "Earn experience of developing a project underthe guidance of the mentors.",
+      "image": "assets/learn3.png"
+    },
+    {
+      "id": 3,
+      "title": " For III Year Students",
+      "description1": "Acquire advanced knowledge of DSA and its concepts by solving complex problems.",
+      "description2": "Deepen expertise in web development, app development, and machine learning for future implementations.",
+      "description3": "Gain substantial experience developing sophisticated projects under the guidance of mentors.",
+      "image": "assets/learn1.png"
+    }
+  ],
+  "coursePhase3": [
+    {
+      "id": 1,
+      "title": "1st Year",
+      "subheading": "Web Development",
+      "description1": "Lecture 1: HTML:Building your First Website",
+      "description2": "Lecture 2: Introduction to CSS",
+      "description3": "Lecture 3: Introduction to JavaScript",
+      "description4": "Lecture 4: Version Control with Git",
+      "description5": "Lecture 5: BootStrap 4",
+      "description6": "Lecture 6: DOM Manipulation",
+      "description7": "Lecture 7: NPM and Hosting",
+      "image": "assets/c_phase3.1.png"
+    },
+    {
+      "id": 2,
+      "title": " 2nd Year",
+      "subheading": "Machine Learning",
+      "description1": "Lecture 1: Getting started with Anaconda",
+      "description2": "Lecture 2: Important Python Libraries",
+      "description3": "Lecture 3: Regression",
+      "description4": "Lecture 4: Classification",
+      "description5": "Lecture 5: SVM",
+      "description6": "Lecture 6: Tree",
+      "description7": "Lecture 7: KNN",
+      "image": "assets/c_phase3.2.png"
+    },
+    {
+      "id": 3,
+      "title": "3rd Year",
+      "subheading": "Web Development",
+      "description1": "Lecture 8: React",
+      "description2": "Lecture 9: Node",
+      "description3": "Lecture 10: MongoDB",
+      "description4": "Lecture 11: REST",
+      "description5": "Lecture 12: Express",
+      "image": "assets/c_phase3.3.png"
+    },
+    {
+      "id": 4,
+      "title": "4th Year",
+      "subheading": "Machine Learning",
+      "description1": "Lecture 8: Unsupervised Learning:Clustering",
+      "description2": "Lecture 9: Deep Learning and Neural Networks",
+      "description3": "Lecture 10: Computer Vision and CNN",
+      "description4": "Lecture 11: Scikit-learn",
+      "description5": "Lecture 12: Other Important ML Algorithms",
+      "description6": "Lecture 13: Learn Deployment(Flask, Django, etc",
+      "image": "assets/c_phase3.4.png"
+    }
+  ],
+  "StarCoursePerk": [
+    {
+      "id": 1,
+      "title": "Mentorship",
+      "image": "faUserGraduate"
+    },
+    {
+      "id": 2,
+      "title": "Certification",
+      "image": "faAward"
+    },
+    {
+      "id": 3,
+      "title": "Internship and Placement Opportunity",
+      "image": "faBriefcase"
+    },
+    {
+      "id": 4,
+      "title": "Projects",
+      "image": "faTasks"
+    },
+    {
+      "id": 5,
+      "title": "Collaboration and Networking",
+      "image": "faHandshake"
+    }
+],
+"careerTestimonial": [
+    {
+      "id": 1,
+      "review": "Career counseling opened my eyes to paths I’d never considered. I thought my only options were engineering or medicine, but after the sessions, I found out there are so many fields that match my strengths. Now, I’m excited about my future!",
+      "name": "Raghav Mehta"
+    },
+    {
+      "id": 2,
+      "review": "The counseling sessions made a huge difference. I didn’t know much about the job market or even what skills I’d need. Now, I’m not just picking a degree—I’m preparing for a career I care about.",
+      "name": "Sneha Patel"
+    },
+    {
+      "id": 3,
+      "review": "Before counseling, I was stressed and uncertain about my future. The sessions helped me understand my strengths and showed me where I could fit in. It’s nice to feel a bit more in control of my next steps.",
+      "name": "Arjun Singh"
+    },
+    {
+      "id": 4,
+      "review": "As a parent, it’s tough to know what to tell your child. The career counseling sessions gave us all valuable information and put us at ease. My daughter now has a plan that fits her personality, and we know she’ll be happy with her choice.",
+      "name": "Anita Verma"
+    },
+    {
+      "id": 5,
+      "review": "I worried that my son was just choosing what his friends were interested in, not what suited him. After counseling, he’s now pursuing something he genuinely loves—and I know he’s on the right track.",
+      "name": "Rajesh Kumar"
+    },
+    {
+      "id": 6,
+      "review": "Career counseling was a blessing. I had no idea about the current job market or the new fields available. The sessions really helped us understand what skills our child needs for a successful career.",
+      "name": "Sunita Iyer"
+    },
+    {
+      "id": 7,
+      "review": "The counselor didn’t just focus on academics. They talked about personal skills and interests, which I think is crucial. Now we feel more confident as a family about the choices ahead.",
+      "name": "Manoj Desai"
+    }
+  ]
+}
+
